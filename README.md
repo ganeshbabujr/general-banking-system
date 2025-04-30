@@ -117,18 +117,6 @@ EXEC generate_statement(1001);
 -- Check balance of account ID 1001
 SELECT get_balance(1001) FROM dual;
 
-📁 Folder Structure
-
-general-banking-system/
-├── schema/
-│   ├── create_tables.sql        # Create table schema
-│   └── insert_sample_data.sql   # Insert sample data
-├── modules/
-│   ├── account_creation.sql     # Account creation procedures
-│   ├── withdrawal.sql           # Withdrawal procedures
-│   ├── transactions.sql         # Fund transfer procedures
-│   ├── statements.sql           # Statement generation procedures
-├── README.md
 
 👨‍💻 Author
 Ganesh Babu J R
