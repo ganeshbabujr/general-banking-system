@@ -1,0 +1,59 @@
+                                                            ICICI_Bank_Statement_Mar_2023
+Name            : Ganesh JR
+Mobile          : 8531865148
+Email           : jr.ganesh66@gmail.com
+Customer_id     : 617589
+Account Number  : 104000000005000
+IFSC Code       : ICIC0002393
+Branch          : Chennai
+Account Type    : SAVING
+Account Status  : ACTIVE
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+TRANSACTION_ID     TRANSACTION_DATE                   FROM_ACCOUNT        TO_ACCOUNT          TRANSACTION_TYPE    TRANSACTION_MODE       TRANSACTION_AMOUNT    STATUS    
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+IMPS6099           07-MAR-23 12.15.29.174000 AM       104000000005000     Nil                 DEBIT               ATM Cash Withdrawal    500                   SUCCESS    
+IMPS6108           07-MAR-23 12.15.30.362000 AM       104000000005000     Nil                 DEBIT               ATM Cash Withdrawal    500                   SUCCESS    
+IMPS6117           07-MAR-23 12.15.31.507000 AM       104000000005000     Nil                 DEBIT               ATM Cash Withdrawal    500                   SUCCESS    
+IMPS6144           07-MAR-23 12.20.42.925000 AM       104000000005000     Nil                 DEBIT               ATM Cash Withdrawal    500                   SUCCESS    
+IMPS6153           07-MAR-23 12.20.55.162000 AM       104000000005000     Nil                 DEBIT               ATM Cash Withdrawal    500                   SUCCESS    
+IMPS6054           07-MAR-23 12.10.24.947000 AM       104000000005000     104000000005001     DEBIT               Online                 500                   SUCCESS   
+IMPS6054           07-MAR-23 12.10.24.947000 AM       104000000005000     104000000005001     CREDIT              Online                 500                   SUCCESS   
+IMPS6063           07-MAR-23 12.10.26.624000 AM       104000000005000     104000000005001     DEBIT               Online                 500                   SUCCESS   
+IMPS6063           07-MAR-23 12.10.26.624000 AM       104000000005000     104000000005001     CREDIT              Online                 500                   SUCCESS   
+IMPS6072           07-MAR-23 12.10.27.565000 AM       104000000005000     104000000005001     DEBIT               Online                 500                   SUCCESS   
+IMPS6072           07-MAR-23 12.10.27.565000 AM       104000000005000     104000000005001     CREDIT              Online                 500                   SUCCESS   
+IMPS6081           07-MAR-23 12.10.28.443000 AM       104000000005000     104000000005001     DEBIT               Online                 500                   SUCCESS   
+IMPS6081           07-MAR-23 12.10.28.443000 AM       104000000005000     104000000005001     CREDIT              Online                 500                   SUCCESS   
+IMPS6090           07-MAR-23 12.10.29.210000 AM       104000000005000     104000000005001     DEBIT               Online                 500                   SUCCESS   
+IMPS6090           07-MAR-23 12.10.29.210000 AM       104000000005000     104000000005001     CREDIT              Online                 500                   SUCCESS   
+IMPS6180           07-MAR-23 12.28.27.790000 AM       104000000005000     Nil                 DEBIT               ATM Cash Withdrawal    100                   SUCCESS    
+IMPS6207           07-MAR-23 12.28.54.799000 AM       104000000005000     Nil                 DEBIT               ATM Cash Withdrawal    100                   SUCCESS    
+IMPS6234           07-MAR-23 12.29.28.707000 AM       104000000005000     Nil                 DEBIT               ATM Cash Withdrawal    100                   SUCCESS    
+IMPS6270           07-MAR-23 12.30.24.800000 AM       104000000005000     Nil                 DEBIT               ATM Cash Withdrawal    100                   SUCCESS    
+IMPS6279           07-MAR-23 12.30.25.647000 AM       104000000005000     Nil                 DEBIT               ATM Cash Withdrawal    100                   SUCCESS    
+IMPS6315           07-MAR-23 12.34.00.017000 AM       104000000005000     Nil                 DEBIT               ATM Cash Withdrawal    100                   SUCCESS    
+IMPS6324           07-MAR-23 12.34.00.924000 AM       104000000005000     Nil                 DEBIT               ATM Cash Withdrawal    100                   SUCCESS    
+IMPS6360           07-MAR-23 12.36.27.244000 AM       104000000005000     Nil                 DEBIT               ATM Cash Withdrawal    100                   SUCCESS    
+IMPS6369           07-MAR-23 12.36.28.895000 AM       104000000005000     Nil                 DEBIT               ATM Cash Withdrawal    100                   SUCCESS    
+IMPS6378           07-MAR-23 12.36.29.678000 AM       104000000005000     Nil                 DEBIT               ATM Cash Withdrawal    100                   SUCCESS    
+IMPS6423           07-MAR-23 12.39.34.311000 AM       104000000005000     Nil                 DEBIT               ATM Cash Withdrawal    5100                  SUCCESS    
+IMPS6432           07-MAR-23 12.39.35.517000 AM       104000000005000     Nil                 DEBIT               ATM Cash Withdrawal    5100                  SUCCESS    
+IMPS6504           07-MAR-23 12.45.21.112000 AM       104000000005000     Nil                 DEBIT               ATM Cash Withdrawal    5000                  SUCCESS   
+IMPS6531           07-MAR-23 12.46.54.851000 AM       104000000005000     Nil                 DEBIT               ATM Cash Withdrawal    5000                  SUCCESS   
+IMPS6549           07-MAR-23 12.48.00.552000 AM       104000000005000     Nil                 DEBIT               ATM Cash Withdrawal    100                   SUCCESS   
+IMPS6558           07-MAR-23 12.48.05.656000 AM       104000000005000     Nil                 DEBIT               ATM Cash Withdrawal    100                   SUCCESS   
+IMPS6567           07-MAR-23 12.48.10.969000 AM       104000000005000     Nil                 DEBIT               ATM Cash Withdrawal    100                   SUCCESS   
+IMPS6576           07-MAR-23 12.48.11.830000 AM       104000000005000     Nil                 DEBIT               ATM Cash Withdrawal    100                   SUCCESS   
+IMPS6585           07-MAR-23 12.48.12.173000 AM       104000000005000     Nil                 DEBIT               ATM Cash Withdrawal    100                   SUCCESS   
+IMPS6594           07-MAR-23 12.48.12.408000 AM       104000000005000     Nil                 DEBIT               ATM Cash Withdrawal    100                   SUCCESS   
+IMPS6603           07-MAR-23 12.48.12.611000 AM       104000000005000     Nil                 DEBIT               ATM Cash Withdrawal    100                   SUCCESS   
+IMPS6612           07-MAR-23 12.48.12.814000 AM       104000000005000     Nil                 DEBIT               ATM Cash Withdrawal    100                   SUCCESS   
+IMPS6621           07-MAR-23 12.48.13.001000 AM       104000000005000     Nil                 DEBIT               ATM Cash Withdrawal    100                   SUCCESS   
+IMPS6630           07-MAR-23 12.48.13.158000 AM       104000000005000     Nil                 DEBIT               ATM Cash Withdrawal    100                   SUCCESS   
+IMPS6639           07-MAR-23 12.48.13.298000 AM       104000000005000     Nil                 DEBIT               ATM Cash Withdrawal    100                   SUCCESS   
+IMPS6693           07-MAR-23 12.51.18.602000 AM       104000000005000     Nil                 DEBIT               ATM Cash Withdrawal    100                   SUCCESS   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Total No of Transactions :  41
+Total Amount Credited    :  2500
+Total Amount Debited     :  27400
+                                                            End_Of_The_Statement

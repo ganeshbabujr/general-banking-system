@@ -1,0 +1,29 @@
+                                                            ICICI_Bank_Statement_Mar_2023
+Name            : Ganesh
+Mobile          : 8535853148
+Email           : jr.ganesh66@gmail.com
+Customer_id     : 618238
+Account Number  : 104000000005767
+IFSC Code       : ICIC0002393
+Branch          : Chennai
+Account Type    : SAVING
+Account Status  : ACTIVE
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+TRANSACTION_ID     TRANSACTION_DATE                   FROM_ACCOUNT        TO_ACCOUNT          TRANSACTION_TYPE    TRANSACTION_MODE       TRANSACTION_AMOUNT    STATUS    
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+IMPS6144           07-MAR-23 11.48.42.319000 AM       104000000005767     Nil                 DEBIT               ATM Cash Withdrawal    300                   SUCCESS   
+IMPS6054           07-MAR-23 11.34.00.545000 AM       104000000005767     104000000005768     DEBIT               Online                 5000                  SUCCESS   
+IMPS6054           07-MAR-23 11.34.00.545000 AM       104000000005767     104000000005768     CREDIT              Online                 5000                  SUCCESS   
+IMPS6081           07-MAR-23 11.34.51.245000 AM       104000000005767     104000000005769     DEBIT               Online                 500                   SUCCESS   
+IMPS6081           07-MAR-23 11.34.51.245000 AM       104000000005767     104000000005769     CREDIT              Online                 500                   SUCCESS   
+IMPS6108           07-MAR-23 11.42.55.919000 AM       104000000005767     104000000005769     DEBIT               Online                 500                   SUCCESS   
+IMPS6108           07-MAR-23 11.42.55.919000 AM       104000000005767     104000000005769     CREDIT              Online                 500                   SUCCESS   
+IMPS6126           07-MAR-23 11.47.09.137000 AM       104000000005767     104000000005768     DEBIT               Online                 1000                  SUCCESS   
+IMPS6126           07-MAR-23 11.47.09.137000 AM       104000000005767     104000000005768     CREDIT              Online                 1000                  SUCCESS   
+IMPS6135           07-MAR-23 11.47.36.229000 AM       104000000005767     104000000005768     DEBIT               Online                 200                   SUCCESS   
+IMPS6135           07-MAR-23 11.47.36.229000 AM       104000000005767     104000000005768     CREDIT              Online                 200                   SUCCESS   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Total No of Transactions :  11
+Total Amount Credited    :  7200
+Total Amount Debited     :  7500
+                                                            End_Of_The_Statement
